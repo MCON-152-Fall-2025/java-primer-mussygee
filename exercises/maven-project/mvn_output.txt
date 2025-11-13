@@ -1,0 +1,45 @@
+[INFO] Scanning for projects...
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/3.1.0/exec-maven-plugin-3.1.0.pom
+Progress (1): 1.1 kBProgress (1): 3.6 kBProgress (1): 6.2 kBProgress (1): 9.4 kBProgress (1): 12 kB Progress (1): 14 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/3.1.0/exec-maven-plugin-3.1.0.pom (14 kB at 23 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/mojo-parent/69/mojo-parent-69.pom
+Progress (1): 708 BProgress (1): 2.4 kBProgress (1): 5.0 kBProgress (1): 7.5 kBProgress (1): 9.8 kBProgress (1): 11 kB Progress (1): 16 kBProgress (1): 21 kBProgress (1): 23 kBProgress (1): 25 kBProgress (1): 29 kBProgress (1): 31 kBProgress (1): 35 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/mojo-parent/69/mojo-parent-69.pom (35 kB at 510 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.8.2/junit-bom-5.8.2.pom
+Progress (1): 918 BProgress (1): 4.5 kBProgress (1): 5.6 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.8.2/junit-bom-5.8.2.pom (5.6 kB at 66 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/3.1.0/exec-maven-plugin-3.1.0.jar
+Progress (1): 0.9/73 kBProgress (1): 2.3/73 kBProgress (1): 3.7/73 kBProgress (1): 5.0/73 kBProgress (1): 6.4/73 kBProgress (1): 7.8/73 kBProgress (1): 9.1/73 kBProgress (1): 11/73 kB Progress (1): 12/73 kBProgress (1): 13/73 kBProgress (1): 15/73 kBProgress (1): 16/73 kBProgress (1): 17/73 kBProgress (1): 19/73 kBProgress (1): 20/73 kBProgress (1): 20/73 kBProgress (1): 21/73 kBProgress (1): 23/73 kBProgress (1): 24/73 kBProgress (1): 26/73 kBProgress (1): 27/73 kBProgress (1): 28/73 kBProgress (1): 30/73 kBProgress (1): 31/73 kBProgress (1): 32/73 kBProgress (1): 34/73 kBProgress (1): 38/73 kBProgress (1): 42/73 kBProgress (1): 46/73 kBProgress (1): 51/73 kBProgress (1): 55/73 kBProgress (1): 59/73 kBProgress (1): 63/73 kBProgress (1): 68/73 kBProgress (1): 72/73 kBProgress (1): 73 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/3.1.0/exec-maven-plugin-3.1.0.jar (73 kB at 1.1 MB/s)
+[INFO] 
+[INFO] --------------------< edu.touro.mcon152:maven-demo >--------------------
+[INFO] Building maven-demo 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- exec:3.1.0:java (default-cli) @ maven-demo ---
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.4.2/plexus-utils-3.4.2.pom
+Progress (1): 720 BProgress (1): 2.3 kBProgress (1): 4.7 kBProgress (1): 8.2 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.4.2/plexus-utils-3.4.2.pom (8.2 kB at 135 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/8/plexus-8.pom
+Progress (1): 694 BProgress (1): 2.7 kBProgress (1): 6.4 kBProgress (1): 9.2 kBProgress (1): 11 kB Progress (1): 15 kBProgress (1): 20 kBProgress (1): 24 kBProgress (1): 25 kBProgress (1): 25 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/8/plexus-8.pom (25 kB at 424 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/2.1.1/plexus-component-annotations-2.1.1.pom
+Progress (1): 770 B                   Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/2.1.1/plexus-component-annotations-2.1.1.pom (770 B at 7.9 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/2.1.1/plexus-containers-2.1.1.pom
+Progress (1): 1.3 kBProgress (1): 4.9 kBProgress (1): 6.0 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/2.1.1/plexus-containers-2.1.1.pom (6.0 kB at 108 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/6.5/plexus-6.5.pom
+Progress (1): 693 BProgress (1): 2.7 kBProgress (1): 6.4 kBProgress (1): 9.2 kBProgress (1): 11 kB Progress (1): 16 kBProgress (1): 20 kBProgress (1): 24 kBProgress (1): 25 kBProgress (1): 26 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/6.5/plexus-6.5.pom (26 kB at 384 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-exec/1.3/commons-exec-1.3.pom
+Progress (1): 795 BProgress (1): 2.3 kBProgress (1): 5.4 kBProgress (1): 7.9 kBProgress (1): 11 kB Progress (1): 11 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-exec/1.3/commons-exec-1.3.pom (11 kB at 207 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/35/commons-parent-35.pom
+Progress (1): 725 BProgress (1): 2.0 kBProgress (1): 3.4 kBProgress (1): 4.9 kBProgress (1): 8.5 kBProgress (1): 11 kB Progress (1): 15 kBProgress (1): 18 kBProgress (1): 19 kBProgress (1): 22 kBProgress (1): 25 kBProgress (1): 27 kBProgress (1): 31 kBProgress (1): 33 kBProgress (1): 37 kBProgress (1): 44 kBProgress (1): 47 kBProgress (1): 47 kBProgress (1): 50 kBProgress (1): 52 kBProgress (1): 55 kBProgress (1): 57 kBProgress (1): 58 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/35/commons-parent-35.pom (58 kB at 1.3 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/apache/15/apache-15.pom
+Progress (1): 759 BProgress (1): 2.1 kBProgress (1): 4.0 kBProgress (1): 7.9 kBProgress (1): 11 kB Progress (1): 14 kBProgress (1): 15 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/apache/15/apache-15.pom (15 kB at 250 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.4.2/plexus-utils-3.4.2.jar
+Progress (1): 3.8/267 kBProgress (1): 8.0/267 kBProgress (1): 12/267 kB Progress (1): 16/267 kBProgress (1): 20/267 kBProgress (1): 24/267 kBProgress (1): 41/267 kBProgress (1): 57/267 kBProgress (1): 73/267 kBProgress (1): 90/267 kBProgress (1): 106/267 kBProgress (1): 123/267 kBProgress (1): 139/267 kBProgress (1): 151/267 kBProgress (1): 168/267 kBProgress (1): 184/267 kBProgress (1): 200/267 kBProgress (1): 217/267 kBProgress (1): 233/267 kBProgress (1): 239/267 kBProgress (1): 255/267 kBProgress (1): 267 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.4.2/plexus-utils-3.4.2.jar (267 kB at 2.7 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/2.1.1/plexus-component-annotations-2.1.1.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar
+Progress (1): 7.7/54 kBProgress (1): 16/54 kB Progress (1): 32/54 kBProgress (1): 49/54 kBProgress (1): 53/54 kBProgress (1): 54 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar (54 kB at 990 kB/s)
+Progress (1): 0.9/4.1 kBProgress (1): 2.3/4.1 kBProgress (1): 3.6/4.1 kBProgress (1): 3.7/4.1 kBProgress (1): 4.1 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/2.1.1/plexus-component-annotations-2.1.1.jar (4.1 kB at 52 kB/s)
+Cap (commons-lang3): Json
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  2.150 s
+[INFO] Finished at: 2025-11-13T22:02:43Z
+[INFO] ------------------------------------------------------------------------
